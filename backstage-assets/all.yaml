@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: cms-assets-all
+  description: A collection of all CMS Assets
+spec:
+  targets:
+    - ./partner-offerings.yaml

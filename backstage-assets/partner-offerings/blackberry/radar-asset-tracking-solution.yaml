@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: BlackBerry Radar is a complete asset tracking solution providing reliable visibility to trailer, chassis, containers, railcars and equipment. These ruggedized devices are easy-to-install, low maintenance and long-lasting to minimize operational disruptions and maximize your ROI.
+  name: blackberry-radar-asset-tracking-solution
+  tags:
+  - asset-tracking
+  - visibility
+  title: BlackBerry Radar Asset Tracking Solution
+spec:
+  type: SaaS
+  author: BlackBerry
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=1ec08f1e-df5a-4531-94f5-fd93307cc279
+  url: https://aws.amazon.com/marketplace/pp/prodview-qjtlfrnlgqxme?did=pa_card&trk=pa_card

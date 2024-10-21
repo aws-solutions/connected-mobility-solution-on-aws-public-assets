@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Cloud-based HMI Software engineering platform for Transparent & Enhanced Collaboration Experience and streamlining the HMI development workflow.
+  name: leapx-hmi-sw-engineering
+  tags:
+  - hmi
+  - software-engineering
+  title: "LeapX: Next gen cloud based platform for HMI SW engineering:"
+spec:
+  type: SaaS
+  author: Bosch Software and Digital Solutions
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=seller-lb37yxazfwfcm
+  url: https://aws.amazon.com/marketplace/pp/prodview-m6gpcdop5akk4?sr=0-4&ref_=beagle&applicationId=AWSMPContessa

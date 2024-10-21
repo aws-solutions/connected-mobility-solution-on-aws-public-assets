@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Expand your coverage against command and control, web-based, file-based, DNS protocol, and other threats with industries most advanced cloud delivered security services that protect your AWS workloads, VDIs and user traffic with AI/ML-powered VM-Series virtual firewalls from Palo Alto Networks. This listing includes 24x7 Premium Support.
+  name: palo-alto-vm-series-ng-virtual-firewall
+  tags:
+  - firewall
+  - networking
+  title: VM-Series Next-Gen Virtual Firewall w/ Advanced Security Subs
+spec:
+  type: SaaS
+  author: Palo Alto
+  authorPageUrl: https://www.paloaltonetworks.com/
+  url: https://aws.amazon.com/marketplace/pp/prodview-3xtziatyes54i?sr=0-3&ref_=beagle&applicationId=AWSMPContessa

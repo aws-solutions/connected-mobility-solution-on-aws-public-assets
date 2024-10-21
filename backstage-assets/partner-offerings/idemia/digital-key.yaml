@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Digital Key solution allows automakers to manage the generation and workflows of digital keys with secure storage on mobile devices.
+  name: digital-key
+  tags:
+  - digital-key
+  - security
+  title: Digital Key
+spec:
+  type: SaaS
+  author: Idemia
+  authorPageUrl: https://partners.amazonaws.com/partners/0010L00001v2Wn2QAE/Idemia
+  url: https://partners.amazonaws.com/partners/0010L00001v2Wn2QAE/Idemia

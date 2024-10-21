@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: CerebrumX's AI-driven platform collects & harmonizes data from millions of vehicles in real-time and enriches it with augmented data to generate deep & contextual insights for enterprises.
+  name: connected-car-data-analytics-platform
+  tags:
+  - data-analytics
+  - connected-car
+  title: Connected Car Data Analytics Platform
+spec:
+  type: SaaS
+  author: CerebrumX
+  authorPageUrl: https://partners.amazonaws.com/partners/0010h00001jCgKTAA0/
+  url: https://partners.amazonaws.com/partners/0010h00001jCgKTAA0/

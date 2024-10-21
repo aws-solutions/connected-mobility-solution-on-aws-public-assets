@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: GPS Fleet Tracking that is simple to use, affordable, and powerful enough to run any size fleet. Azuga's fleet management platform is the best solution to keep track of drivers, improve safety and protect all your assets.
+  name: azuga-fleet
+  tags:
+  - fleet-management
+  - gps-tracking
+  title: Azuga Fleet
+spec:
+  type: SaaS
+  author: Azuga, a Bridgestone Company
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=8f53b754-ebaa-4ddd-b88e-1efa9743dd00
+  url: https://aws.amazon.com/marketplace/pp/prodview-2v2tfrjyzmt3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa

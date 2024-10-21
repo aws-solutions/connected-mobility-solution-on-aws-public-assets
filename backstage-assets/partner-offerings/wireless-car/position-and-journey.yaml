@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Built on real-world data and learnings from millions of vehicle journeys over the course of many years, Position & Journey manages car location and trip data, allows for enrichment of that data, and provides insights on how, when, and where vehicles are driven.
+  name: position-and-journey
+  tags:
+  - vehicle-data
+  - trip-insights
+  title: Position and Journey
+spec:
+  type: SaaS
+  author: WirelessCar
+  authorPageUrl: https://partners.amazonaws.com/partners/001E000000te5syIAA/
+  url: https://partners.amazonaws.com/partners/001E000000te5syIAA/

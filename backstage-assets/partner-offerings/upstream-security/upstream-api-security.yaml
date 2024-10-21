@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Upstream's API Security solution is uniquely able to secure billions of mobility API transactions and analyze their unique context for advanced detection and response. It is purpose-built for automotive and smart mobility, offering layers of API discovery and monitoring to secure applications and services against various vulnerabilities.
+  name: upstream-api-security
+  tags:
+  - api-security
+  - automotive
+  title: Upstream API Security
+spec:
+  type: SaaS
+  author: Upstream Security
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=c2e4bab5-137c-4059-86e5-1acbca8bb7ba
+  url: https://aws.amazon.com/marketplace/pp/prodview-tqatlrchwaxj4?sr=0-1&ref_=beagle&applicationId=AWSMPContessa

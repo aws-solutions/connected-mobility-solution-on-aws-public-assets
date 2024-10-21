@@ -1,0 +1,32 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: cms-partner-offerings
+  description: A collection of all CMS partner offerings
+spec:
+  targets:
+    - ./partner-offerings/aicas/aicas-edgesuite.yaml
+    - ./partner-offerings/argus/managed-vehicle-security-operations-center.yaml
+    - ./partner-offerings/argus/sw-supply-chain-security.yaml
+    - ./partner-offerings/azuga/azuga-fleet.yaml
+    - ./partner-offerings/blackberry/cylance-cybersecurity-platform.yaml
+    - ./partner-offerings/blackberry/radar-asset-tracking-solution.yaml
+    - ./partner-offerings/bosch/automotive-data-transformer.yaml
+    - ./partner-offerings/bosch/leapx-hmi-sw-engineering.yaml
+    - ./partner-offerings/cerebrum-x/connected-car-data-analytics-platform.yaml
+    - ./partner-offerings/excelfore/esync-ota-agent.yaml
+    - ./partner-offerings/haas-alert/safety-cloud-digital-alerting-service.yaml
+    - ./partner-offerings/here-technologies/here-location-services.yaml
+    - ./partner-offerings/here-technologies/here-tour-planning.yaml
+    - ./partner-offerings/idemia/digital-key.yaml
+    - ./partner-offerings/kpit/predictive-maintenance-for-automotive-components.yaml
+    - ./partner-offerings/mongodb/digital-vehicle-twin.yaml
+    - ./partner-offerings/sibros/deep-connected-platform.yaml
+    - ./partner-offerings/sonatus/sonatus-collector.yaml
+    - ./partner-offerings/upstream-security/upstream-api-security.yaml
+    - ./partner-offerings/upstream-security/vsoc.yaml
+    - ./partner-offerings/uptake-technologies/uptake-fleet.yaml
+    - ./partner-offerings/vicone/xnexus-next-gen-vsoc-platform.yaml
+    - ./partner-offerings/wireless-car/position-and-journey.yaml
+    - ./partner-offerings/wireless-car/smart-ev-routing.yaml
+    - ./partner-offerings/palo-alto/vm-series-ng-virtual-firewall.yaml

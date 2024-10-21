@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: BlackBerry combines endpoint protection and management to prevent zero-day threats, ransomware, and phishing attacks while correlating and pinpointing threats to ensure full visibility and security coverage that spans the entire organization.
+  name: blackberry-cylance-cybersecurity-platform
+  tags:
+  - endpoint-protection
+  - cybersecurity
+  title: BlackBerry Cylance Cybersecurity Platform
+spec:
+  type: SaaS
+  author: BlackBerry
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=1ec08f1e-df5a-4531-94f5-fd93307cc279
+  url: https://aws.amazon.com/marketplace/pp/prodview-j3qe23ppt5eno?did=pa_card&trk=pa_card

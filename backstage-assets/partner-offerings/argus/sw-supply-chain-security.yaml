@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: SW Supply Chain Security performs automatic binary SBOM scanning for public and private vulnerabilities to comply with regulations and assure product security.
+  name: sw-supply-chain-security
+  tags:
+  - supply-chain
+  - security
+  title: SW Supply Chain Security
+spec:
+  type: SaaS
+  author: Argus
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=c18d1099-5095-4d06-aee4-571c7fa75620
+  url: https://aws.amazon.com/marketplace/pp/prodview-wzx7k77dwfqis?sr=0-18&ref_=beagle&applicationId=AWSMPContessa

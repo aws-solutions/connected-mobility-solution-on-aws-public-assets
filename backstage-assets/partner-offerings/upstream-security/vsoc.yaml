@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Built on top of Upstream's Platform, Upstream Vehicle SOC (vSOC) seamlessly integrates with the OEMs Automotive tech stack (SIEM, SOAR, CRM, etc.), allowing self-managed or MSSP remediation frameworks and playbooks to streamline incident remediation and automation.
+  name: vsoc
+  tags:
+  - vsoc
+  - cybersecurity
+  title: Upstream Vehicle SOC (vSOC)
+spec:
+  type: SaaS
+  author: Upstream Security
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=c2e4bab5-137c-4059-86e5-1acbca8bb7ba
+  url: https://partners.amazonaws.com/partners/0010L00001tB2DXQA0/

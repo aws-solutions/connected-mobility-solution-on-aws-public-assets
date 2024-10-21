@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Cloud service that triggers digital safety alerts to be sent to drivers, ADAS, and automated driving systems.
+  name: safety-cloud-digital-alerting-service
+  tags:
+  - safety-alerts
+  - adas
+  title: Safety Cloud Digital Alerting Service
+spec:
+  type: SaaS
+  author: HAAS Alert
+  authorPageUrl: https://partners.amazonaws.com/partners/0010h00001kNzP0AAK/
+  url: https://partners.amazonaws.com/partners/0010h00001kNzP0AAK/

@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Sonatus Collector provides an intelligent, efficient, and flexible way to automate the collection of data for enhancing vehicle functionality and performance, troubleshooting issues, and opening new monetization opportunities.
+  name: sonatus-collector
+  tags:
+  - data-collection
+  - automotive
+  title: Sonatus Collector
+spec:
+  type: SaaS
+  author: Sonatus
+  authorPageUrl: https://partners.amazonaws.com/partners/0018a00001qnTLPAA2/Sonatus
+  url: https://partners.amazonaws.com/partners/0018a00001qnTLPAA2/Sonatus

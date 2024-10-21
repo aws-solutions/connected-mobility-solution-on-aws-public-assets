@@ -1,0 +1,17 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: eSync is an over-the-air (OTA) data platform to manage diverse edge devices
+    for automotive/industrial applications. It is based on the eSync Alliance standard
+    to support OTA updates and data gathering with a single approach across multiple
+    vehicle brands, models and sub-models.
+  name: esync-ota-agent-sdk-for-aws
+  tags:
+  - edge
+  - ota
+  title: eSync OTA Agent SDK for AWS
+spec:
+  type: SaaS
+  author: Excelfore
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=77f777ac-ef56-4203-9f7d-dcfb55cb35a1
+  url: https://aws.amazon.com/marketplace/pp/prodview-rh3fkzmvblrrc?sr=0-6&ref_=beagle&applicationId=AWSMPContessa

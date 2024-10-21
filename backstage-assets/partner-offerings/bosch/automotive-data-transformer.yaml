@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: The Automotive Data Transformer (ADT) is a powerful cloud-based SaaS tool for fast vehicle data processing. It supports MDF format and integrates with AWS S3. With easy API calls, our SaaS resolves your challenges with MDF and enables you to extract metadata and convert signal data to Parquet, JSON or CSV securely and reliably.
+  name: automotive-data-transformer
+  tags:
+  - data-processing
+  - automotive
+  title: Automotive Data Transformer
+spec:
+  type: SaaS
+  author: Bosch Engineering GmbH
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=seller-lb37yxazfwfcm
+  url: https://aws.amazon.com/marketplace/pp/prodview-zp7ws35dijn2u?sr=0-1&ref_=beagle&applicationId=AWSMPContessa

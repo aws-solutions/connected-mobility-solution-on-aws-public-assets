@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Aicas EdgeSuite empowers embedded and connected edge-to-cloud solutions.
+  name: aicas-edgesuite
+  tags:
+  - edge-computing
+  - cloud-solutions
+  title: Aicas EdgeSuite
+spec:
+  type: SaaS
+  author: Aicas GmbH
+  authorPageUrl: https://partners.amazonaws.com/partners/0010L00001v2Mn5QAE/
+  url: https://partners.amazonaws.com/partners/0010L00001v2Mn5QAE/

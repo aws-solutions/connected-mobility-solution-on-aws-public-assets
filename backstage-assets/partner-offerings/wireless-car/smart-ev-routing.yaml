@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: "WirelessCar's Smart EV Routing reduces both charge and range anxiety by providing specifically tailored navigation tools that match the EV drivers' needs. Optimized routing during long-distance drives delivers accurate charging guidance: when, where, and for how long to charge."
+  name: smart-ev-routing
+  tags:
+  - ev-routing
+  - navigation
+  title: Smart EV Routing
+spec:
+  type: SaaS
+  author: WirelessCar
+  authorPageUrl: https://partners.amazonaws.com/partners/001E000000te5syIAA/
+  url: https://partners.amazonaws.com/partners/001E000000te5syIAA/

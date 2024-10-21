@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: VicOne xNexus empowers the VSOC team to successfully hunt Patient Zero in nascent cyberattacks and ensure robust protection for connected vehicles and SDVs. Our xNexus achieves this by offering contextualized insights into complex attack paths, supported by over 30 years of contextualized threat intelligence.
+  name: xnexus-next-gen-vsoc-platform
+  tags:
+  - vsoc
+  - cybersecurity
+  title: xNexus Next-Gen VSOC Platform
+spec:
+  type: SaaS
+  author: VicOne
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=seller-ytyg2ymimzjnu
+  url: https://aws.amazon.com/marketplace/pp/prodview-pv36syyt56zym?sr=0-1&ref_=beagle&applicationId=AWSMPContessa

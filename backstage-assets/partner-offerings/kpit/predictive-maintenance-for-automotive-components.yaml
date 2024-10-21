@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: KPIT's Remaining Useful Life (RUL) solution uses AI/ML to accurately translate data into timely, actionable insights. These insights enable the vehicle owner, OEM or mobility service provider to predict the maintenance needs of their fleet for maximum uptime, timely fixes, and higher productivity.
+  name: predictive-maintenance-solution-for-automotive-components
+  tags:
+  - predictive-maintenance
+  - ai-ml
+  title: Predictive Maintenance Solution for Automotive Components
+spec:
+  type: SaaS
+  author: KPIT
+  authorPageUrl: https://partners.amazonaws.com/partners/001E000000UfZqCIAV/
+  url: https://partners.amazonaws.com/partners/001E000000UfZqCIAV/

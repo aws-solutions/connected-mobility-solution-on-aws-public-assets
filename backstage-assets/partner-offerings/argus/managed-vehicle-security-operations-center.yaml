@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Argus Vehicle Security Operations Center combines technology, processes, playbooks, and a team of subject-matter experts to establish or expand a fully functional operation center for vehicle fleets.
+  name: managed-vehicle-security-operations-center
+  tags:
+  - vsoc
+  - cybersecurity
+  title: Managed Vehicle Security Operations Center (VSOC)
+spec:
+  type: SaaS
+  author: Argus
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=c18d1099-5095-4d06-aee4-571c7fa75620
+  url: https://aws.amazon.com/marketplace/pp/prodview-g3knjxy3yadpi?sr=0-13&ref_=beagle&applicationId=AWSMPContessa

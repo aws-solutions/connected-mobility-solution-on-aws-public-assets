@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Uptake Fleet empowers your team to prevent roadside failures, reduce unplanned downtime, and optimize operating and maintenance costs.
+  name: uptake-fleet
+  tags:
+  - predictive-maintenance
+  - fleet-management
+  title: UPTAKE FLEET
+spec:
+  type: SaaS
+  author: Uptake Technologies
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=bc9298f1-d1e8-4e61-a0ed-c60d8a5d3042
+  url: https://aws.amazon.com/marketplace/pp/prodview-v5n34dn3wruns

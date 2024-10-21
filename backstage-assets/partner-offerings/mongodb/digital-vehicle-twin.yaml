@@ -1,0 +1,15 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: MongoDB Atlas developer data platform accelerates the development of connected car use cases. MongoDB’s document model allows easy and flexible modelling and storage of connected vehicle sensor data. Atlas Vector Search enables Gen AI RAG use cases, such as in- car assistance and predictive maintenance, helping you create a comprehensive vehicle digital twin application powered by AI.
+  name: mongodb-digital-vehicle-twin
+  tags:
+  - database
+  - digital-twin
+  - vector-search
+  title: Digital Vehicle Twin
+spec:
+  type: DBaaS
+  author: MongoDB
+  authorPageUrl: https://partners.amazonaws.com/partners/001E000000U0VKNIA3/
+  url: https://aws.amazon.com/marketplace/seller-profile?id=c9032c7b-70dd-459f-834f-c1e23cf3d092

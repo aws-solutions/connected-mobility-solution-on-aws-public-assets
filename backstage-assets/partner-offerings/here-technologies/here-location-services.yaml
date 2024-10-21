@@ -1,0 +1,15 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: HERE Location Services allow AWS developers access to location APIs including Geocoding, Search, Maps, Navigation, Routing, Fleet Telematics and more. These REST & JavaScript APIs open new location intelligence opportunities in diverse verticals like transportation, utilities, logistics and retail.
+  name: here-location-services
+  tags:
+  - location
+  - maps
+  - navigation
+  title: HERE Location Services
+spec:
+  type: SaaS
+  author: Here Technologies
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=cc033bc0-fe05-4d79-ba58-9a132b1fe9d3
+  url: https://aws.amazon.com/marketplace/pp/prodview-hlc5los56uj3q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa

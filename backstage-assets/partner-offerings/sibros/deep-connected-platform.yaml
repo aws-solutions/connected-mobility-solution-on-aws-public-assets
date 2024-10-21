@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Sibros' Deep Connected Platform (DCP) is an end-to-end connected vehicle solution that integrates data logging, software updates, remote commands, and fault analytics. DCP offers unparalleled control, visibility, and governance over all embedded software and data across global fleets, from day zero to product decommissioning, while ensuring compliance with global safety and security standards.
+  name: deep-connected-platform
+  tags:
+  - automotive
+  - connected-vehicle
+  title: Deep Connected Platform
+spec:
+  type: SaaS
+  author: Sibros
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=adca6e7a-ee3c-43bb-b97a-16456f1b7b33
+  url: https://aws.amazon.com/marketplace/pp/prodview-pmgjj367khi2u?sr=0-1&ref_=beagle&applicationId=AWSMPContessa
